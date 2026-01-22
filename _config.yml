@@ -26,9 +26,12 @@ author:
   avatar           : "profile.png"
   name             : "Linnan Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Research interests: non-stationary signal processing, EEG analysis, speech signal processing, and model-driven deep learningr"
+bio: |
+  If I’m right, I celebrate. If I’m wrong, I improve—and still celebrate.
+  对了就庆祝，错了就进步（然后庆祝）
+
   location         : "Ningbo, China"
-  employer         : "Zhejiang Pharmaceutical University; Research Intern,  Ningbo Institute of Materials Technology & Engineering, CAS"
+  employer         : "Zhejiang Pharmaceutical University;
   uri              : "https://hlnnnn.github.io/Linnan.github.io/"
   email            : "hln6666661@gmail.com" 
 
